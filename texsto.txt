@@ -1,1 +1,2 @@
 hola todo bien?
+agrego un cambio para ver bien git log que nunca lo use antes
